@@ -1,0 +1,16 @@
+{
+  "name": "cryptoworld",
+  "version": "1.0.0",
+  "description": "Crypto World is a modern web 3.0 cryptocurrency website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./public/src/input.css -o ./public/dist/output.css --watch"
+  },
+  "keywords": ["HTML, CSS, JavaScript, Tailwindcss, Modern Ui-Ux, Web3 Website, Web 3.0, Crypto, Cryptocurrency"],
+  "author": "Md. Robiuzzaman Ruhan",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
